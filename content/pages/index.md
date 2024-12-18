@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: In modern times
       color: text-primary
       type: Badge
     elementId: ''
