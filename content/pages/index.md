@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: In a society where Information is key
+      text: where Information is key
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
