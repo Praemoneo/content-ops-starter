@@ -3,6 +3,41 @@ slug: /
 sections:
   - type: GenericSection
     title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions:
+      - type: Link
+        label: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/praemoneo.png
+  - type: GenericSection
+    title:
       text: where Information is key
       color: text-primary
       type: TitleBlock
@@ -53,25 +88,57 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: GenericSection
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+  - type: FeaturedItemsSection
     title:
       text: Our Logo
       color: text-primary
       type: TitleBlock
-    text: >+
-      Below is the logo for Praemoneo. Displaying our commitment to predictive AI and accurate market insights.
-    media:
-      altText: Praemoneo Logo
-      type: ImageBlock
-      url: /praemoneo.png  # Reference your image path here
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: column
-        padding:
-          - pt-8
-          - pb-8
+    subtitle: Subtitle goes here
+    items:
+      - type: FeaturedItem
+        title: 500k
+        subtitle: Numbers Done
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        actions: []
+        elementId: null
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+        image:
+          type: ImageBlock
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          url: /images/icon1.svg
+          styles:
+            self:
+              borderRadius: x-large
+      - title: 20x
+        subtitle: The Job Stuff
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          url: /images/praemoneo.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
