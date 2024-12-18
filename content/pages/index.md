@@ -45,6 +45,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/praemoneo.png
   - type: GenericSection
     title:
       text: where Information is key
