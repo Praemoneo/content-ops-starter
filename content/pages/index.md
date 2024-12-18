@@ -38,6 +38,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /content-ops-starter/praemoneo.png  # Here's where you add the image path
     badge:
       label: In modern times
       color: text-primary
