@@ -15,6 +15,7 @@ sections:
       provide you with predictive insights on token performance. Empower your
       investment decisions with Praemoneo and secure your financial future in
       the volatile crypto market.
+    
 <img src="/content-ops-starter/praemoneo.png" alt="Description of Praemoneo logo">
     actions:
       - label: Get started
