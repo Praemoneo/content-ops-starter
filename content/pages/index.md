@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: it is best to trust your sources
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Discover Praemoneo, the AI designed to foresee token trends with
+      precision. By harnessing sophisticated machine learning, Praemoneo
+      interprets market dynamics, social buzz, and blockchain indicators to
+      provide you with predictive insights on token performance. Empower your
+      investment decisions with Praemoneo and secure your financial future in
+      the volatile crypto market.
+
     actions:
       - label: Get started
         altText: ''
