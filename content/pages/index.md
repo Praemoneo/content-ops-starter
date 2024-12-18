@@ -97,7 +97,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/praemoneo.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
