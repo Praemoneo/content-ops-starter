@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: where Information is key
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: it is best to trust your sources
     text: >+
